@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    
+}
+.sub{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+img{
+    border-radius: 50%;
+    margin-left: 50px;
+}
+h2,h4{
+    color:gray;
+
+}
